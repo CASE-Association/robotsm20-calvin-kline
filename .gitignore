@@ -1,0 +1,17 @@
+# Here you can write all files/folders that should be ignored by Github
+
+
+# EAGLE files 
+# Board backup files
+*.b#*
+# Schematic backup files
+*.s#*
+
+# SIMULINK
+# Simulink folder 
+slprj/
+# Simulink cache file
+*.slxc
+
+# MAC specific
+.DS_Store
